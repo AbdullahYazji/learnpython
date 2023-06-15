@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+num = input("Enter your university card number: ")
+print("\n")
+print("Hello "+name)
+print("your age is "+age)
+print(num+" is your university card number")
